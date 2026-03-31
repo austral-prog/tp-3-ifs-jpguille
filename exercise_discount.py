@@ -24,7 +24,7 @@ def discount():
         Monto de descuento: 240.0
         Total final: 960.0
     """
-        precio = float(input())
+    precio = float(input())
     unidades = int(input())
 
     if unidades >= 10:
